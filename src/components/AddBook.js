@@ -49,7 +49,7 @@ function AddBook() {
                 </select>
             </div>
 
-            <button type='submit' className='add-book-button'>Add book</button>
+            <button type='submit' className='add-book-button'>+</button>
         </form>
     )
 }
